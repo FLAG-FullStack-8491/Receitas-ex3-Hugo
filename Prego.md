@@ -1,5 +1,7 @@
 # Prego no Pão
 
+![gastro1-3381-6489-prego_no_pao](https://github.com/FLAG-FullStack-8491/Receitas-ex3-Hugo/assets/166520805/47d16cb7-3f96-4418-8df7-b07bface7c09)
+
 ## Ingredientes
 
     2 fatias de filão ou pão italiano redondo
