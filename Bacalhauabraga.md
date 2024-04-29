@@ -1,5 +1,8 @@
 # Bacalhau à Braga 
 
+![bacalhau-a-braga](https://github.com/FLAG-FullStack-8491/Receitas-ex3-Hugo/assets/166520805/4a7ac722-5e4a-40af-927e-9615253c65ca)
+
+
 ## Ingredientes
 
     250g batatas
