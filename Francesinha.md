@@ -38,6 +38,10 @@ ovo M
 1 unid.
    manteiga
 1 c. de chá
+
+CONFLICT - ARRANJA ISTO POR FAVOR
+
+
    pimenta preta
  1 q.b.
     sal
