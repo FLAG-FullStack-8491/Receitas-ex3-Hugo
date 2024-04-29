@@ -1,60 +1,54 @@
 # Francesinha
 
 ## Ingredientes
-
- - alho
+ alho
   1 dente
-
- - vinho do Porto
-
- - 1 c. de chá
+ vinho do Porto
+1 c. de chá
    amido de milho
- - 1 c. de chá
- - sal
- -  ½ c. de chá
-    cubo de caldo de carne
- - 1 unid.
- - molho inglês
+1 c. de chá
+ sal
+ ½ c. de chá
+cubo de caldo de carne
+ 1 unid.
+molho inglês
    1 c. de chá
- - água
+água
    100 ml
- - vinho branco
- - 50 ml
+vinho branco
+50 ml
    cerveja
- - 100 ml
+100 ml
    tomate pelado em cubos
- - ½ unid.
+½ unid.
    malagueta vermelha
- - ½ unid.
+½ unid.
    louro
    1 folha
- - pão de forma com côdea
+pão de forma com côdea
    2 fatia
- - azeite
- - 1 c. de sopa
+azeite
+1 c. de sopa
    cebola pequena
- - 1 unid.
- - Para o molho
+1 unid.
+Para o molho
    azeite
- - 1 c. de sopa
- - ovo M
- - 1 unid.
+1 c. de sopa
+ovo M
+1 unid.
    manteiga
- - 1 c. de chá
+1 c. de chá
    pimenta preta
- -  1 q.b.
+ 1 q.b.
     sal
     ½ c. de chá
-
- - bife de vitela
+bife de vitela
    1 unid.
-
- - salsicha tipo hotdog
+salsicha tipo hotdog
    1 unid.
-
- - fiambre
+  fiambre
    1 fatia
-   
+
 ## Preparação
 Torre as fatias de pão de forma. Corte a salsicha ao meio e no sentido do comprimento.
 Tempere o bife com sal e pimenta, coloque a frigideira ao lume com a manteiga e frite o bife de ambos os lados. Reserve.
